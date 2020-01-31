@@ -7,6 +7,7 @@ ruby '2.7.0'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'active_model_serializers'
+gem 'rack-cors'
 
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
